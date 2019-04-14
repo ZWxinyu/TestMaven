@@ -1,0 +1,1 @@
+console.alter('abc');
