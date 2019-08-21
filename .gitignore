@@ -50,6 +50,9 @@ testng-*
 
 HELP.md
 target/
+*.mvn
+mvnw
+mvnw.cmd
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
